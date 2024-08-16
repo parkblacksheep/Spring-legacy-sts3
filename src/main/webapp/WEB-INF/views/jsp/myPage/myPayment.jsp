@@ -7,7 +7,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>myPayment</title>
-    
+    	
+      <link rel="stylesheet" href="<c:url value='resources/css/common/reset.css'/>" />
       <link rel="stylesheet" href="<c:url value='resources/css/myPage/myPayment.css'/>" />
       <link
         rel="stylesheet"

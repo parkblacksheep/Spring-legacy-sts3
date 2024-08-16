@@ -22,9 +22,20 @@ public class MyPageController {
 	public String myPayment() {
 		return "jsp/myPage/myPayment";
 	}
-	@RequestMapping(value="/myRefund")
-	public String myRefund() {
-		return "jsp/myPage/myRefund";
+	@RequestMapping(value="/paymentDetail")
+	public String paymentDetail() {
+		return "jsp/myPage/paymentDetail";
 	}
-	
+	@RequestMapping(value="/reservationDetail")
+	public String reservationDetail() {
+		return "jsp/myPage/reservationDetail";
+	}
+	@RequestMapping(value="/reservationList")
+	public String reservationList() {
+		return "jsp/myPage/reservationList";
+	}
+	@RequestMapping(value="/wishList")
+	public String wishList() {
+		return "jsp/myPage/wishList";
+	}
 }
