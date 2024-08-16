@@ -1,16 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page session="false" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign Up</title>
-    <link rel="stylesheet" href="../../css/common/reset.css" />
-    <link rel="stylesheet" href="../../css/login/signUp.css" />
-    <script defer src="../../js/main/main.js"></script>
+    <link rel="stylesheet" href="<c:url value='resources/css/common/reset.css'/>" />
+    <link rel="stylesheet" href="resources/css/login/signUp.css" />
+    <script defer src="<c:url value='resources/js/main/main.js'/>"></script>
 
 </head>
 <body>
-    <div id="header-placeholder"></div>
+    <div> <%@ include file="/resources/components/header/headerV2.jsp" %></div>
     <div class="hd__inner400">
         
         <!-- 타이틀 -->
@@ -25,9 +29,9 @@
         
             <!-- 프로필 & 아이디 -->
             <div class="profile">
-                <img class="profile-img" src="../../assets/images/profile.png" alt="프로필 이미지" />
+                <img class="profile-img" src="resources/assets/images/profile.png" alt="프로필 이미지" />
                 <div>
-                    <button class="profile-put"><img class="camera-icon" src="../../assets/images/icon-camera.png" alt="카메라 아이콘"></button>
+                    <button class="profile-put"><img class="camera-icon" src="resources/assets/images/icon-camera.png" alt="카메라 아이콘"></button>
                 </div>
             </div> 
             <div class="input-block">
@@ -37,14 +41,14 @@
                 <input type="password" name="pass" id="pass" class="inputs" minlength="8" maxlength="20" placeholder="비밀번호" />
                 <img
                     class="password-invisible"
-                    src="../../assets/images/password-invisible.png"
+                    src="resources/assets/images/password-invisible.png"
                 />
             </div>
             <div class="input-block">
                 <input type="password" name="pass-check" id="pass-check" class="inputs" minlength="8" maxlength="20" placeholder="비밀번호 확인" />
                 <img
                     class="password-invisible"
-                    src="../../assets/images/password-invisible.png"
+                    src="resources/assets/images/password-invisible.png"
                 />
             </div>
 
@@ -104,9 +108,8 @@
                 <button class="sign-btn">가입하기</button>
             </div>
         </section>
-
     </div>
-    <div id="footer-placeholder"></div>
-    <script src="../../js/login/signUp.js"></script>
+    <div><%@ include file="/resources/components/footer/footerV2.jsp" %></div>
+    <script src="resources/js/login/signUp.js"></script>
 </body>
 </html>
