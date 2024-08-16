@@ -68,7 +68,7 @@
                   <dt awria-label="주문 날짜">결제 날짜</dt>
                   <dd><span class=""> 2024.08.01</span></dd>
                 </dl>
-                <a href="paymentDetail.html" class="body-top-link">
+                <a href="payment-detail" class="body-top-link">
                   <span>결제 상세</span>
                   <span> > </span>
                 </a>
@@ -116,7 +116,7 @@
                   <dd><span class=""> 2024.07.31</span></dd>
                 </dl>
 
-                <a href="paymentDetail.html" class="body-top-link">
+                <a href="payment-detail" class="body-top-link">
                   <span>결제 상세</span>
                   <span> > </span>
                 </a>

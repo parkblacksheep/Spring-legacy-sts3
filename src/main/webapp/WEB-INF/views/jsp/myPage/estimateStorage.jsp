@@ -74,7 +74,8 @@
               </div>
               <div class="company-list">
                 <div>
-                  <a href="../../html/studio/studioDetail.html"
+                
+                  <a href="studio-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/estimateDetails1.png'/>"
@@ -83,7 +84,7 @@
                   <p>스튜디오</p>
                 </div>
                 <div>
-                  <a href="../../html/dress/dressDetail.html"
+                  <a href="dress-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/storage-dress.jpg'/>"
@@ -92,7 +93,7 @@
                   <p>드레스</p>
                 </div>
                 <div>
-                  <a href="../../html/makeup/makeupDetail.html"
+                  <a href="makeup-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/storage-makeup.png'/>"
@@ -126,7 +127,7 @@
               </div>
               <div class="company-list">
                 <div>
-                  <a href="../../html/studio/studioDetail.html"
+                  <a href="studio-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/storage-studio.jpg'/>"
@@ -135,7 +136,7 @@
                   <p>스튜디오</p>
                 </div>
                 <div>
-                  <a href="../../html/dress/dressDetail.html"
+                  <a href="dress-detail"
                     ><img
                       class="company-img"
                       src=" <c:url value='resources/assets/images/dress-1.jpg'/>"
@@ -169,7 +170,7 @@
               </div>
               <div class="company-list">
                 <div>
-                  <a href="../../html/studio/studioDetail.html"
+                  <a href="studio-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/studio-4.jpg'/>"
@@ -178,7 +179,7 @@
                   <p>스튜디오</p>
                 </div>
                 <div>
-                  <a href="../../html/dress/dressDetail.html"
+                  <a href="dress-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/dress-4.jpg'/>"
@@ -187,7 +188,7 @@
                   <p>드레스</p>
                 </div>
                 <div>
-                  <a href="../../html/makeup/makeupDetail.html"
+                  <a href="makeup-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/makeup-5.jpg'/>"
@@ -221,7 +222,7 @@
               </div>
               <div class="company-list">
                 <div>
-                  <a href="../../html/studio/studioDetail.html"
+                  <a href="studio-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/studio-11.jpg'/>"
@@ -230,7 +231,7 @@
                   <p>스튜디오</p>
                 </div>
                 <div>
-                  <a href="../../html/dress/dressDetail.html"
+                  <a href="dress-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/dress-8.jpg'/>"
@@ -239,7 +240,7 @@
                   <p>드레스</p>
                 </div>
                 <div>
-                  <a href="../../html/makeup/makeupDetail.html"
+                  <a href="makeup-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/makeup-11.jpg'/>"
@@ -273,7 +274,7 @@
               </div>
               <div class="company-list">
                 <div>
-                  <a href="../../html/studio/studioDetail.html"
+                  <a href="studio-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/studio-8.jpg'/>"
@@ -282,7 +283,7 @@
                   <p>스튜디오</p>
                 </div>
                 <div>
-                  <a href="../../html/makeup/makeupDetail.html"
+                  <a href="makeup-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/makeup-3.jpg'/>"
@@ -316,7 +317,7 @@
               </div>
               <div class="company-list">
                 <div>
-                  <a href="../../html/dress/dressDetail.html"
+                  <a href="dress-detail"
                     ><img
                       class="company-img"
                       src="<c:url value='resources/assets/images/dress-6.jpg'/>"

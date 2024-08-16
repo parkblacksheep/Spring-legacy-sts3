@@ -14,9 +14,14 @@
                 rel="stylesheet"
                 href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
      />
+      <link
+                rel="stylesheet"
+                href="<c:url value='resources/css/common/sidebar/sidebarMyPage.css'/>"
+        />
       <script defer src="<c:url value='resources/js/main/main.js'/>"></script>
       <script defer src="<c:url value='resources/js/myPage/myPageMain.js'/>"></script>
       <script defer src="<c:url value='resources/js/myPage/reservationList.js'/>"></script>
+      
   </head>
   <div> <%@ include file="/resources/components/header/headerV2.jsp" %></div>
   <body>
@@ -81,7 +86,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -110,7 +115,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -139,7 +144,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -168,7 +173,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -205,7 +210,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -234,7 +239,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -276,7 +281,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -305,7 +310,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -339,7 +344,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -368,7 +373,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -402,7 +407,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>
@@ -431,7 +436,7 @@
                   </div>
                 </div>
                 <div class="content-end">
-                  <a href="../../html/myPage/reservationDetail.html"
+                  <a href="reservation-detail"
                     >예약 상세 보러가기>></a
                   >
                 </div>

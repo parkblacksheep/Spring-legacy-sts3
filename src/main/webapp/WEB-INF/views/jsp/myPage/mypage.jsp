@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+ <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
 <!DOCTYPE html>
 
@@ -159,7 +159,7 @@
                 <div class="sub-title-header">
                     <div class="sub-title">현재 예약 현황</div>
                     <div class="Reservation-mange-go">
-                        <a href="../../resources/html/myPage/reservationList.html">예약 현황 바로가기>>></a>
+                        <a href="reservation-list">예약 현황 바로가기>>></a>
                     </div>
                 </div>
                 <div class="category">웨딩 홀</div>

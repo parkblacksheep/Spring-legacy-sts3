@@ -18,27 +18,27 @@
           <br />
           <ul class="list">
             <li class="item">
-              <a href="../../html/mypage/mypage.html">MyProfile</a>
+              <a href="mypage">MyProfile</a>
             </li>
 
             <li class="item" id="myPage_Visit">
-              <a href="../../html/mypage/mypage.html">방문 일정</a>
+              <a href="mypage">방문 일정</a>
             </li>
 
             <li class="item" id="myPage_Reservation">
-              <a href="../../html/mypage/reservationList.html"> 예약 현황</a>
+              <a href="reservation-detail"> 예약 현황</a>
             </li>
             <br />
             <li class="item">
-              <a href="../../html/mypage/likeList.html">My Like</a>
+              <a href="likelist">My Like</a>
             </li>
 
             <li class="item">
-              <a href="../../html/mypage/myPayment.html">결제 내역</a>
+              <a href="mypayment">결제 내역</a>
             </li>
 
             <li class="item">
-              <a href="../../html/mypage/estimateStorage.html">견적함</a>
+              <a href="estimate-storage">견적함</a>
             </li>
           </ul>
         </li>

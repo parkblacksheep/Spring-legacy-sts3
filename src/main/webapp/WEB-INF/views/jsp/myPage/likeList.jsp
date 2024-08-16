@@ -337,7 +337,7 @@
           </div>
           <div class="LikeList-Card-List">
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -348,7 +348,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -359,7 +359,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -370,7 +370,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -381,7 +381,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -392,7 +392,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -403,7 +403,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -414,7 +414,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -425,7 +425,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
@@ -436,7 +436,7 @@
               </ul>
             </div>
             <div class="LikeList-Card">
-              <img src="../../assets/images/makeup-10.jpg" alt="업체 이미지" />
+              <img src="resources/assets/images/makeup-10.jpg" alt="업체 이미지" />
               <ul>
                 <h3>로이 스튜디오</h3>
                 <h5>Roi Studio</h5>
