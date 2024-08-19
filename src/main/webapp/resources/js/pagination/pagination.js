@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function loadPagination() {
-    fetch("../../components/pagination/pagination.html")
+    fetch("resources/components/pagination/pagination.jsp")
         .then((response) => response.text())
         .then((data) => {
             document.getElementById("pagination-placeholder").innerHTML = data;

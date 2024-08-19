@@ -735,8 +735,7 @@
         </div>
 
         <!-- 페이지네이션  -->
-        <div id="pagination-placeholder"></div>
-
+		<div><%@ include file="/resources/components/pagination/pagination.jsp"%></div>
         <div><%@ include file="/resources/components/footer/footerV2.jsp" %></div>
     </body>
 </html>
