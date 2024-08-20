@@ -8,34 +8,34 @@ public class MyPageController {
 	
 	@RequestMapping(value = "/mypage")
 	public String mypage() {
-		return "jsp/myPage/mypage";
+		return "jsp/mypage3/mypage";
 	}
 	@RequestMapping(value="/estimate-storage")
 	public String estimateStorage() {
-		return "jsp/myPage/estimateStorage";
+		return "jsp/mypage3/estimateStorage";
 	}
 	@RequestMapping(value = "/likelist")
 	public String likeList() {
-		return "jsp/myPage/likeList";
+		return "jsp/mypage3/likeList";
 	}
 	@RequestMapping(value="/mypayment")
 	public String myPayment() {
-		return "jsp/myPage/myPayment";
+		return "jsp/mypage3/myPayment";
 	}
 	@RequestMapping(value="/payment-detail")
 	public String paymentDetail() {
-		return "jsp/myPage/paymentDetail";
+		return "jsp/mypage3/paymentDetail";
 	}
 	@RequestMapping(value="/reservation-detail")
 	public String reservationDetail() {
-		return "jsp/myPage/reservationDetail";
+		return "jsp/mypage3/reservationDetail";
 	}
 	@RequestMapping(value="/reservation-list")
 	public String reservationList() {
-		return "jsp/myPage/reservationList";
+		return "jsp/mypage3/reservationList";
 	}
 	@RequestMapping(value="/wishlist")
 	public String wishList() {
-		return "jsp/myPage/wishList";
+		return "jsp/mypage3/wishList";
 	}
 }

@@ -8,27 +8,27 @@ public class SDMController {
 	
 	@RequestMapping(value = "studio-list")
 	public String studioList() {
-		return "jsp/sdm/studioList";
+		return "jsp/company/studioList";
 	}
 	@RequestMapping(value = "studio-detail")
 	public String studioDetail() {
-		return "jsp/sdm/studioDetail";
+		return "jsp/company/studioDetail";
 	}
 	@RequestMapping(value = "dress-list")
 	public String dressList() {
-		return "jsp/sdm/dressList";
+		return "jsp/company/dressList";
 	}
 	@RequestMapping(value = "dress-detail")
 	public String dressDetail() {
-		return "jsp/sdm/dressDetail";
+		return "jsp/company/dressDetail";
 	}
 	@RequestMapping(value = "makeup-list")
 	public String makeupList() {
-		return "jsp/sdm/makeupList";
+		return "jsp/company/makeupList";
 	}
 	@RequestMapping(value = "makeup-detail")
 	public String makeupDetail() {
-		return "jsp/sdm/makeupDetail";
+		return "jsp/company/makeupDetail";
 	}
 
 }
